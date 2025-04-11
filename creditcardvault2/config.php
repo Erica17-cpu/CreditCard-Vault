@@ -3,7 +3,7 @@ session_start();
 $host = 'localhost';
 $db = 'creditcardvault2';
 $user = 'root';
-$pass = 'Skywave@254!';
+$pass = ''; //use your own password if none use the default root123
 $encryption_key = 'supersecretkey2025'; // Change this!
 
 try {
